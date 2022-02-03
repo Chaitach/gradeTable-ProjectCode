@@ -1,0 +1,232 @@
+{
+  "curriculum": [
+   
+           {
+            "key": "1",
+            "name": "BG 1001: English I",
+            "credit": 3
+          },
+          {
+            "key": "2",
+            "name": "BG 1002: English II",
+            "credit": 3
+          },
+          {
+            "key": "3",
+            "name": "English III",
+            "credit": 3
+
+          },
+          {
+            "key": "4",
+            "name": "English IV",
+            "credit": 3
+          },
+          {
+            "key": "5",
+            "name": "LAW 1201 Business Laws for Entrepreneurs",
+            "credit": 3
+          },
+          {
+            "key": "6",
+            "name": "GE 2202 Ethics",
+            "credit": 3
+          },
+          {
+            "key": "7",
+            "name": "BBA 1001 Business Exploration",
+            "credit": 3
+          },
+          {
+            "key": "8",
+            "name": "BAC 1602 Fundamentals of Financial Accounting I",
+            "credit": 3
+          },
+          {
+            "key": "9",
+            "name": "ITX 1001 Basic Mathematics and Statistics",
+            "credit": 3
+          },
+          {
+            "key": "10",
+            "name": "GE 1103 Historical Perspectives on Thailand",
+            "credit": 3
+          },
+          {
+            "key": "11",
+            "name": "ITX 2001 Object-Oriented Concepts and Programming",
+            "credit": 3
+          },
+          {
+            "key": "12",
+            "name": "ITX 2002 Calculus",
+            "credit": 3
+          },
+          {
+            "key": "13",
+            "name": "GE 1103 Historical Perspectives on Thailand",
+            "credit": 3
+          },
+          {
+            "key": "14",
+            "name": "ITX 2003 Principles of Statistics",
+            "credit": 3
+          },
+          {
+            "key": "15",
+            "name": "ITX 2004 UI/UX Design and Prototyping",
+            "credit": 3
+          },
+          {
+            "key": "16",
+            "name": "ITX 2005 Design Thinking",
+            "credit": 3
+          },
+          {
+            "key": "17",
+            "name": "ITX 2006 Mathematics and Statistics for Data Science",
+            "credit": 3
+          },
+          {
+            "key": "18",
+            "name": "ITX 2007 Data Science",
+            "credit": 3
+          },
+          {
+            "key": "19",
+            "name": "ITX 2008 Cloud Computing",
+            "credit": 3
+          },
+          {
+            "key": "20",
+            "name": "ITX 2009 Presentation and Data Visualization Techniques",
+            "credit": 3
+          },
+          {
+            "key": "21",
+            "name": "ITX 2010 Data Structure and Algorithms",
+            "credit": 3
+          },
+          {
+            "key": "22",
+            "name": "ITX 3001 Fundamentals of Computer Programming",
+            "credit": 3
+          },
+          {
+            "key": "23",
+            "name": "ITX 3002 Introduction to Information Technology",
+            "credit": 3
+          },
+          {
+            "key": "24",
+            "name": "ITX 3003 Business Systems",
+            "credit": 3
+          },
+          {
+            "key": "25",
+            "name": "ITX 3004 Information System Analysis and Design",
+            "credit": 3
+          },
+          {
+            "key": "26",
+            "name": "ITX 3005 Computer Networks",
+            "credit": 3
+          },
+          {
+            "key": "27",
+            "name": "ITX 3006 Database Management Systems",
+            "credit": 3
+          },
+          {
+            "key": "28",
+            "name": "ITX 3007 Software Engineering",
+            "credit": 3
+          },
+          {
+            "key": "29",
+            "name": "ITX 3008 IT Project Management",
+            "credit": 3
+          },
+          {
+            "key": "30",
+            "name": "ITX 3009 Senior Project I",
+            "credit": 3
+          },
+          {
+            "key": "31",
+            "name": "ITX 3010 Senior Project II",
+            "credit": 3
+          },
+          {
+            "key": "32",
+            "name": "ITX 4103 Requirement Engineering",
+            "credit": 3
+          },
+          {
+            "key": "33",
+            "name": "ITX 4104 Software Testing",
+            "credit": 3
+          },
+          {
+            "key": "34",
+            "name": "ITX 4106 Enterprise Architecture",
+            "credit": 3
+          },
+          {
+            "key": "35",
+            "name": "ITX 4107 Web Application Development",
+            "credit": 3
+          },
+          {
+            "key": "36",
+            "name": "ITX 4108 iOS Application Development",
+            "credit": 3
+          },
+          {
+            "key": "37",
+            "name": "ITX 3010 Senior Project II",
+            "credit": 3
+          },
+          {
+            "key": "38",
+            "name": "ITX 4109 Android Application Development",
+            "credit": 3
+          }, {
+            "key": "39",
+            "name": "ITX 4301 Network Design",
+            "credit": 3
+          },
+          {
+            "key": "40",
+            "name": "ITX 4302 Cisco Networking Workshop",
+            "credit": 3
+          },
+          {
+            "key": "41",
+            "name": "ITX 4303 Network Security",
+            "credit": 3
+          },
+          {
+            "key": "42",
+            "name": "ITX 4304 Network Management",
+            "credit": 3
+          },
+          {
+            "key": "43",
+            "name": "ITX 4305 Heterogeneous Wireless Networks",
+            "credit": 3
+          },
+          {
+            "key": "44",
+            "name": "ITX 4306 Internet of Things",
+            "credit": 3
+          },
+          {
+            "key": "45",
+            "name": " ITX 4307 Business Continuity Planning and Management",
+            "credit": 3
+          }
+         
+        ]
+      
+}
